@@ -73,4 +73,14 @@
         tools:layout_editor_absoluteY="835dp"
         android:layout_marginTop="10dp"
         android:layout_centerHorizontal="true"/>
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Huỳnh Văn An"
+        android:layout_below="@+id/imageView2"
+        android:textColor="@color/white"
+        android:layout_centerHorizontal="true"
+        />
 </RelativeLayout>
